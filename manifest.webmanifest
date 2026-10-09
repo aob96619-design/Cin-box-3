@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "CineBox — Films & séries",
+  "short_name": "CineBox",
+  "description": "Découvre et organise tes films et séries préférés.",
+  "lang": "fr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
+  "categories": ["entertainment", "video"],
+  "icons": [
+    { "src": "/icons/cinebox-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/cinebox-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/cinebox-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
